@@ -1,4 +1,4 @@
-# project 7 Crypto Landing Page
+# project 7 wireless-Headphone-Templete Page
 
 ![Image](thumbnail.png)
 
